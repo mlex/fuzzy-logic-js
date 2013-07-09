@@ -1,0 +1,17 @@
+{
+  "name": "fuzzy-js",
+  "version": "0.0.1",
+  "description": "Fuzzy logic library",
+  "scripts": {
+    "test": "grunt travis --verbose"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "colors":"~0.6.0",
+    "grunt-simple-mocha": "~0.4.0",
+    "grunt-contrib-jshint": "~0.4.3",
+    "chai": "~1.6.0"
+  }
+}
